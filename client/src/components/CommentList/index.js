@@ -21,7 +21,7 @@ const CommentList = ({ comments = [] }) => {
                 <span style={{ fontSize: '0.825rem', marginBottom: '.1rem' }} >
                   commented on {comment.createdAt}
                 </span>
-                <span style={{ display: 'flex', justifyContent: 'flex-end' }}><Raiting /></span>
+                {/* <span style={{ display: 'flex', justifyContent: 'flex-end' }}><Raiting /></span> */}
 
               </Header>
 

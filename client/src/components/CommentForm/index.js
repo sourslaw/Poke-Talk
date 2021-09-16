@@ -45,7 +45,7 @@ const CommentForm = ({ adoptionId }) => {
   return (
     <div id="fonts">
       <h3 id='fonts' style={{ marginBottom: '.1rem'}} >What are your thoughts on this pokemon?</h3>
-      <span style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: '1rem'}}><Raiting /></span>
+      {/* <span style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: '1rem'}}><Raiting /></span> */}
       {Auth.loggedIn() ? (
         <>
         <Form onSubmit={handleFormSubmit} reply>
