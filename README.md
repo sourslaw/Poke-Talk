@@ -30,3 +30,8 @@ benjimosso@gmail.com
 - Hayley Parish
 https://github.com/heparish;
 heparish@ucdavis.edu
+
+## Credits
+- [Apollo](https://www.apollographql.com/)
+- [GraphQL](https://graphql.org/)
+- [Semantic UI React](https://react.semantic-ui.com/)
