@@ -11,25 +11,19 @@
 - To use this application you will need to login to the deployed site on Heroku, creating a username and password with your email. You will be able to place Pokémon up to be discussed by other trainers. All Pokémon that you put up for discussion will be shown under your profile page where you can open the comments or remove the Pokémon from discussion. You will also be able to edit your username and email under your profile page if you click the ```Update Info``` button.
 
 ## Screenshot
-![alt text](/client/public/assets/screenshot.png)
+![alt text](./client/public/assets/screenshot.png)
 
 
-## Contact Info
-- Adrian Aguilar
-https://github.com/Ascension23;
-Tygor23@gmail.com
-
-- Scott Lawan
-https://github.com/sourslaw;
-lawanscott@gmail.com
-
+## Contributors
 - Daniel Mosso
-https://github.com/benjimosso;
-benjimosso@gmail.com
-
-- Hayley Parish
-https://github.com/heparish;
-heparish@ucdavis.edu
+	- [GitHub](https://github.com/benjimosso)
+	- [Email](benjimosso@gmail.com)
+- Haley Parish
+	- [GitHub](https://github.com/heparish)
+	- [Email](heparish@ucdavis.edu)
+- Adrian Aguilar
+	- [GitHub](https://github.com/Ascension23)
+	- [Email](Tygor23@gmail.com)
 
 ## Credits
 - [Apollo](https://www.apollographql.com/)
