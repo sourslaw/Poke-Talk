@@ -1,4 +1,5 @@
 # Poké Talk
+![alt text](./client/public/assets/screenshot.png)
 
 ## Description
 - Poké Talk is a MERN application for the Pokémon trainers to connect with other trainers and discuss their Pokémon.
@@ -8,11 +9,10 @@
 - The live Heroku app can be viewed: [here](https://ancient-fjord-95576.herokuapp.com/)
 
 ## Usage
-- To use this application you will need to login to the deployed site on Heroku, creating a username and password with your email. You will be able to place Pokémon up to be discussed by other trainers. All Pokémon that you put up for discussion will be shown under your profile page where you can open the comments or remove the Pokémon from discussion. You will also be able to edit your username and email under your profile page if you click the ```Update Info``` button.
+![alt text](./client/public/assets/screenshot_usage.gif)
 
-## Screenshot
-![alt text](./client/public/assets/screenshot.png)
-
+- To use this application you will need to login to the deployed site on Heroku by creating a username and password with your email
+- Once Logged In, you will be able to place Pokémon up to be discussed by other trainers. All Pokémon that you put up for discussion will be shown under your profile page where you can open the comments or remove the Pokémon from discussion. You will also be able to edit your username and email under your profile page if you click the ```Update Info``` button.
 
 ## Contributors
 - Daniel Mosso
@@ -26,6 +26,7 @@
 	- [Email](Tygor23@gmail.com)
 
 ## Credits
+- [React](https://reactjs.org/)
 - [Apollo](https://www.apollographql.com/)
 - [GraphQL](https://graphql.org/)
 - [Semantic UI React](https://react.semantic-ui.com/)
