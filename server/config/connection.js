@@ -13,4 +13,6 @@ mongoose.connect(
   }
 );
 
+console.log('connected: ' + process.env.MONGODB_URI)
+
 module.exports = mongoose.connection;
